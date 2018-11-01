@@ -11,3 +11,5 @@ LSS and DDC algorithms.
 
 - The `MPI` directory contains the Fortran/MPI code used to implement the PLSS
 and SPaM algorithms.
+
+[![DOI](https://zenodo.org/badge/155610180.svg)](https://zenodo.org/badge/latestdoi/155610180)
